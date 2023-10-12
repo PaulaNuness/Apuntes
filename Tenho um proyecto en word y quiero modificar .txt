@@ -1,0 +1,8 @@
+-abro github desktop
+-adiciono el proyecto que tiene el doc word
+-poso abrir em intellij ou en show in explore
+-faço as mudanças
+-salvo o documento
+-coloco o commit onde esta escrito Summary
+- clico em commit to main
+- e ja estara añadido no git
